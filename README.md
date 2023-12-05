@@ -1,7 +1,7 @@
 # Data analysis portfolio - 
 - A collection of my data analysis projects. Each project includes a detailed README with context, information, and visualizations:
 
-- [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
+### [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
 
 
 ### [Global Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
