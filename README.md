@@ -6,6 +6,7 @@
 
 ### [Global Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
 ![Global Bank Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
+
 The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
 
 Key insights from the analysis include:
