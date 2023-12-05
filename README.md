@@ -7,14 +7,14 @@ A collection of my data analysis projects. Each project includes a detailed READ
 
 The "Adidas Sales Analysis" project offers a comprehensive examination of Adidas' sales data in the United States. This analysis aims to decode patterns in sales, understand profitability dynamics, and grasp customer preferences.
 
-### Project Insights:
-- **Numerical Variable Comparison**: Analysis reveals that while Nike shoes generally cost more and have a slightly higher rating, Adidas offers more substantial discounts.
-  
+### Project Insights:  
   ![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.20.35.png)
-- **Price-Rating Correlation**: Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
-- 
-  ![chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
+  
+- **Numerical Variable Comparison**: Analysis reveals that while Nike shoes generally cost more and have a slightly higher rating, Adidas offers more substantial discounts.
 
+  ![chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
+  
+- **Price-Rating Correlation**: Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
 #### Data Source
 The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
@@ -24,7 +24,6 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 
 #### Conclusions and Recommendations
 The study has identified pivotal product categories driving sales and profitability and highlighted regional differences in sales performance. Recommendations are provided for pricing strategies and inventory management to enhance Adidas' market position.
-
 #### Future Directions
 Future work includes:
 - Integrating external data like market trends and customer demographics for a more in-depth analysis.
