@@ -9,8 +9,10 @@ The "Adidas Sales Analysis" project offers a comprehensive examination of Adidas
 
 ### Project Insights:
 - **Numerical Variable Comparison**: Analysis reveals that while Nike shoes generally cost more and have a slightly higher rating, Adidas offers more substantial discounts.
+  
   ![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.20.35.png)
 - **Price-Rating Correlation**: Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
+- 
   ![chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
 
 #### Data Source
