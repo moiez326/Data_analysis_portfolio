@@ -82,13 +82,39 @@ These insights are vital for the travel industry, particularly for services like
 
  a strategic approach to boosting overall passenger satisfaction.
 
-## [US Adidas Geo-Spatial Sales and Trends Analysis](https://github.com/moiez326/US-Adidas-sales)
+## [US Adidas Sales Analysis](https://github.com/moiez326/US-Adidas-sales)
+![Adidas US Sales](picture-URL)
 
+The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering growth opportunities in the crucial U.S. market.
 
+### Objective
+This comprehensive analysis aims to:
+- Conduct **Exploratory Data Analysis (EDA)** to identify patterns and anomalies in Adidas's U.S. sales data.
+- Perform **Geo-Spatial Analysis** to visualize and interpret sales data across different geographic segments.
 
+### Key Questions
+- How do sales figures and patterns vary across U.S. regions, states, and cities?
+- What insights can be gleaned from a geo-spatial analysis of the sales data?
 
+#### Repository Structure
+- [adidas_EDA.ipynb]: Jupyter notebook containing in-depth EDA and visualizations.
+- adidas_csv_master.csv: Raw sales data.
+- final_adidas.csv: Cleaned and processed sales data.
+- stores.csv: Subset data for Adidas retail stores.
+- orders.csv: Subset data for order information.
+
+### Insights and Recommendations
 ![average profit](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2012.04.13.png)
 
-- Regional profit:
-- Product Category Insights: Men's Street Footwear and Women's Apparel are high-performing categories, suggesting robust consumer demand.
-- Growth Opportunities: Other regions, particularly the Southeast, show room for growth. Tailored strategies in these areas could improve market penetration.
+- Women's Street Footwear and Men's Street Footwear are the highest profit categories, particularly in the West region, which leads in operating profits across most product types.
+- Men's Apparel has the lowest average operating profit, suggesting it is the least profitable category, especially in the Midwest and Southeast regions.
+- The Southeast region shows growth potential, with overall lower profits indicating an opportunity for targeted marketing and sales initiatives.
+
+### Conclusion
+This analysis sheds light on key strengths and growth opportunities in Adidas's U.S. sales. Strategic decisions and marketing efforts informed by these insights can significantly boost regional sales and align with consumer preferences and product category performance.
+### Future Directions
+- **Deep Dive into Consumer Preferences**: Further research into specific consumer preferences to inform targeted marketing and product development.
+- **Predictive Modeling**: Utilization of predictive models to anticipate sales trends and explore emerging market opportunities.
+
+
+
