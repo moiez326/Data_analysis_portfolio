@@ -3,8 +3,6 @@
 # Data Analysis Portfolio
 -A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
 
-# Data Analysis Portfolio
-
 ## Table of Contents
 - [Nike vs Adidas Shoe Pricing and Rating Analysis](#nike-vs-adidas-shoe-pricing-and-rating-analysis)
   - [Project Insights](#project-insights)
