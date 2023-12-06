@@ -1,6 +1,6 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
-# Data Analysis Portfolio
+# Data analysis Portfolio
 -A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
 
 ## Table of Contents
