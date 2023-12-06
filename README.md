@@ -1,6 +1,8 @@
 # Data Analysis Portfolio
+-A collection of my data analysis projects. Each project includes a detailed README with context, information, and visualizations:
 
-A collection of my data analysis projects. Each project includes a detailed README with context, information, and visualizations:
+![data analysis](https://images.datacamp.com/image/upload/v1652357545/shutterstock_1770654182_d43667c1bc.jpg)
+
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
 ![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
