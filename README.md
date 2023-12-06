@@ -1,10 +1,10 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
-# Data analysis Portfolio
+# Data analysis portfolio
 -A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
 
 ## Table of Contents
-- Nike vs Adidas Shoe Pricing and Rating Analysis
+- Nike vs Adidas shoe pricing and rating analysis
   - Project Insights
   - Data Source
   - Repository Structure
@@ -34,7 +34,7 @@ The "Adidas Sales Analysis" project offers a comprehensive examination of Adidas
 
   ![chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
   
-- **Price-Rating Correlation**: Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
+- **Price-Rating correlation**: Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
 #### Data Source
 The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
