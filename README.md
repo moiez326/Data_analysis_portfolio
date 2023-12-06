@@ -4,24 +4,23 @@
 -A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
 
 ## Table of Contents
-- [Nike vs Adidas Shoe Pricing and Rating Analysis](#nike-vs-adidas-shoe-pricing-and-rating-analysis)
-  - [Project Insights](#project-insights)
-  - [Data Source](#data-source)
-  - [Repository Structure](#repository-structure)
-  - [Conclusions and Recommendations](#conclusions-and-recommendations)
-  - [Future Directions](#future-directions)
-- [Bank Loan Default Client Risk Factor Analysis](#bank-loan-default-client-risk-factor-analysis)
-  - [Project Insights](#project-insights-1)
-  - [Repository Structure](#repository-structure-1)
-- [Shinkansen Travel Experience and Satisfaction Analysis](#shinkansen-travel-experience-and-satisfaction-analysis)
-  - [Project Insights](#project-insights-2)
-  - [Demographic Impact](#demographic-impact)
-  - [Key Findings](#key-findings)
-- [US Adidas Geo-Spatial Sales and Trends Analysis](#us-adidas-geo-spatial-sales-and-trends-analysis)
-  - [Project Insights](#project-insights-3)
-  - [Regional Profit](#regional-profit)
-  - [Product Category Insights](#product-category-insights)
-
+- Nike vs Adidas Shoe Pricing and Rating Analysis
+  - Project Insights
+  - Data Source
+  - Repository Structure
+  - Conclusions and Recommendations
+  - Future Directions
+- Bank Loan Default Client Risk Factor Analysis
+  - Project Insights
+  - Repository Structure
+- Shinkansen Travel Experience and Satisfaction Analysis
+  - Project Insights
+  - Demographic Impact
+  - Key Findings
+- US Adidas Geo-Spatial Sales and Trends Analysis
+  - Project Insights
+  - Regional Profit
+  - Product Category Insights
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
 ![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
