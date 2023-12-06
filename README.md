@@ -1,7 +1,28 @@
-# Data Analysis Portfolio
--A collection of my data analysis projects. Each project includes a detailed README with context, information, and visualizations:
+![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
-![data analysis](https://images.datacamp.com/image/upload/v1652357545/shutterstock_1770654182_d43667c1bc.jpg)
+# Data Analysis Portfolio
+-A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
+
+# Data Analysis Portfolio
+
+## Table of Contents
+- [Nike vs Adidas Shoe Pricing and Rating Analysis](#nike-vs-adidas-shoe-pricing-and-rating-analysis)
+  - [Project Insights](#project-insights)
+  - [Data Source](#data-source)
+  - [Repository Structure](#repository-structure)
+  - [Conclusions and Recommendations](#conclusions-and-recommendations)
+  - [Future Directions](#future-directions)
+- [Bank Loan Default Client Risk Factor Analysis](#bank-loan-default-client-risk-factor-analysis)
+  - [Project Insights](#project-insights-1)
+  - [Repository Structure](#repository-structure-1)
+- [Shinkansen Travel Experience and Satisfaction Analysis](#shinkansen-travel-experience-and-satisfaction-analysis)
+  - [Project Insights](#project-insights-2)
+  - [Demographic Impact](#demographic-impact)
+  - [Key Findings](#key-findings)
+- [US Adidas Geo-Spatial Sales and Trends Analysis](#us-adidas-geo-spatial-sales-and-trends-analysis)
+  - [Project Insights](#project-insights-3)
+  - [Regional Profit](#regional-profit)
+  - [Product Category Insights](#product-category-insights)
 
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
