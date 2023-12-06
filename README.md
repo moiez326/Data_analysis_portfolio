@@ -29,10 +29,13 @@ Future work includes:
 - Integrating external data like market trends and customer demographics for a more in-depth analysis.
 - Employing machine learning models for predictive sales forecasting and trend analysis.
 
-## [Global Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/loandefault)
+## [Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
 ![Global Bank Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
 
 The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
+
+![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
+### Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status.
 
 Key insights from the analysis include:
 - Loan amounts are not significant indicators of the likelihood of default.
@@ -46,6 +49,9 @@ I suggest a refocus in risk assessment models towards the borrower's credit hist
 
 The "Shinkansen Passenger Satisfaction Analysis" project explores the crucial aspects influencing passenger satisfaction on Japan's renowned bullet train. This analysis is centered on understanding the diverse elements contributing to the overall travel experience.
 
+![Age-group and gender satisfaction](https://github.com/moiez326/shinkansen/blob/main/media/Screenshot%202023-12-06%20at%2011.58.55.png)
+
+- Demographic Impact: Gender and age significantly impact satisfaction levels. Elderly and younger demographics show differing levels of satisfaction, highlighting a potential need for targeted service improvements.
 Key findings from the study include:
 - Service quality and onboard amenities have a more substantial influence on satisfaction than travel distance and delays.
 - Demographic factors like age and gender significantly impact satisfaction levels, with varying satisfaction observed in elderly and younger passenger groups.
