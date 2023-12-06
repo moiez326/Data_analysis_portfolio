@@ -30,7 +30,7 @@ Future work includes:
 - Employing machine learning models for predictive sales forecasting and trend analysis.
 
 ## [Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
-![Global Bank Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
+![Defaulting loan Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
 
 The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
 
@@ -62,3 +62,12 @@ These insights are vital for the travel industry, particularly for services like
  a strategic approach to boosting overall passenger satisfaction.
 
 ## [US Adidas Geo-Spatial Sales and Trends Analysis](https://github.com/moiez326/US-Adidas-sales)
+
+
+
+
+![average profit](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2012.04.13.png)
+
+- Regional profit:
+- Product Category Insights: Men's Street Footwear and Women's Apparel are high-performing categories, suggesting robust consumer demand.
+- Growth Opportunities: Other regions, particularly the Southeast, show room for growth. Tailored strategies in these areas could improve market penetration.
