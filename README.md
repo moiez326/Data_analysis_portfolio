@@ -83,7 +83,7 @@ These insights are vital for the travel industry, particularly for services like
  a strategic approach to boosting overall passenger satisfaction.
 
 ## [US Adidas Sales Analysis](https://github.com/moiez326/US-Adidas-sales)
-![Adidas US Sales](picture-URL)
+![Adidas logo](https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg)
 
 The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering growth opportunities in the crucial U.S. market.
 
