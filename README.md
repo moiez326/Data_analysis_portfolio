@@ -54,7 +54,6 @@ The study has identified pivotal product categories driving sales and profitabil
 The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
 
 - Loan Amount vs. Debt to Income Ratio
-![chat 1](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-12-03%20at%2018.31.30.png)
 
 - Using linear regression we found that loan amount is not a strong predictor of the debt-to-income ratio. Interestingly, defaulted loans tend to have a higher debt-to-income ratio, pointing to other contributory factors to loan default.
 
