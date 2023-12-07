@@ -44,8 +44,7 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 
 #### Conclusions and Recommendations
 The study has identified pivotal product categories driving sales and profitability and highlighted regional differences in sales performance. Recommendations are provided for pricing strategies and inventory management to enhance Adidas' market position.
-#### Future Directions
-Future work includes:
+#### Future work:
 - Integrating external data like market trends and customer demographics for a more in-depth analysis.
 - Employing machine learning models for predictive sales forecasting and trend analysis.
 
@@ -60,19 +59,22 @@ The "Global Bank Loan Default Analysis" delves into the complexities of loan def
 - Using linear regression we found that loan amount is not a strong predictor of the debt-to-income ratio. Interestingly, defaulted loans tend to have a higher debt-to-income ratio, pointing to other contributory factors to loan default.
 
 ![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
-- Credit-related variables such as derogatory reports showed a more drastic difference in frequency of bad and good loan status.
+
+- Credit-related variables such as derogatory reports showed a more drastic difference in the frequency of bad and good loan status.
 
 Key insights from the analysis include:
 - Loan amounts are not significant indicators of the likelihood of default.
 - Credit-related factors such as derogatory reports and debt-to-income ratios are more closely associated with loan defaults.
 - The purpose of a loan, particularly in the case of debt consolidation, is a critical factor with a higher default rate.
+#### Conclusion and recommendations: 
 
-I suggest a refocus in risk assessment models towards the borrower's credit history and the loan's purpose. By refining loan approval criteria, Global Bank can enhance its lending strategies and risk management approach.
+- a refocusing risk assessment process towards the borrower's credit history and the loan's purpose
+- By making more categories for job variables as well as more categories for loan reasons, Global Bank can have a better picture of who their clients are and why they take out loans to better segment their risk.
 
 ## [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen)
 ![N700 series Shinkansen](https://www.japanhouselondon.uk/assets/New-Discover-page/_resampled/FillWyI3MjgiLCI0MDgiXQ/Shinkansen-Landing-page-banner.jpg)
 
-The "Shinkansen Passenger Satisfaction Analysis" project explores the crucial aspects influencing passenger satisfaction on Japan's renowned bullet train. This analysis is centered on understanding the diverse elements contributing to the overall travel experience.
+The "Shinkansen Passenger Satisfaction Analysis" project explores the crucial aspects influencing passenger satisfaction on Japan's renowned bullet train. This analysis is centred on understanding the diverse elements contributing to the overall travel experience.
 
 ![Age-group and gender satisfaction](https://github.com/moiez326/shinkansen/blob/main/media/Screenshot%202023-12-06%20at%2011.58.55.png)
 
@@ -98,7 +100,7 @@ This comprehensive analysis aims to:
 
 ### Key Questions
 - How do sales figures and patterns vary across U.S. regions, states, and cities?
-- What insights can be gleaned from a geo-spatial analysis of the sales data?
+- What insights can be gleaned from a geospatial analysis of the sales data?
 
 #### Repository Structure
 - [adidas_EDA.ipynb]: Jupyter notebook containing in-depth EDA and visualizations.
@@ -116,9 +118,8 @@ This comprehensive analysis aims to:
 
 ### Conclusion
 This analysis sheds light on key strengths and growth opportunities in Adidas's U.S. sales. Strategic decisions and marketing efforts informed by these insights can significantly boost regional sales and align with consumer preferences and product category performance.
-### Future Directions
-- **Deep Dive into Consumer Preferences**: Further research into specific consumer preferences to inform targeted marketing and product development.
-- **Predictive Modeling**: Utilization of predictive models to anticipate sales trends and explore emerging market opportunities.
 
+### Future Directions
+- further research into the web-shopping experience and creating sales based on customer's preference and regional segmentation
 
 
