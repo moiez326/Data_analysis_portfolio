@@ -1,26 +1,18 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
 # Data analysis portfolio
-A collection of my data analysis projects. Each project includes a README with context, information, and visualizations:
+Each project here includes context, 1 key insight with visualization, and a conclusion with recommendations
 
 ## Table of Contents
-- Nike vs Adidas shoe pricing and rating analysis
-  - Project Insights
-  - Data Source
-  - Repository Structure
-  - Conclusions and Recommendations
-  - Future Directions
-- Bank Loan Default Client Risk Factor Analysis
-  - Project Insights
-  - Repository Structure
-- Shinkansen Travel Experience and Satisfaction Analysis
-  - Project Insights
-  - Demographic Impact
-  - Key Findings
-- US Adidas Geo-Spatial Sales and Trends Analysis
-  - Project Insights
-  - Regional Profit
-  - Product Category Insights
+- [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Nike_vs_Adidas/blob/main/nike%20vs%20adidas.ipynb)
+  - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
+  - [data_repo](https://github.com/moiez326/Nike_vs_Adidas/tree/main/data)
+- [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/loandefault/blob/main/loan_EDA.ipynb)
+  - [data_repo](https://github.com/moiez326/loandefault/tree/main/data)
+- [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen/blob/main/shinki_EDA.ipynb)
+  - [data_repo](https://github.com/moiez326/shinkansen/tree/main/data)
+- [US Adidas Regional trends analysis](https://github.com/moiez326/US-Adidas-sales/blob/main/adidas_EDA.ipynb)
+  - [data_repo](https://github.com/moiez326/US-Adidas-sales/tree/main/data)
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
 ![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
@@ -71,7 +63,7 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 ### Conclusion and recommendations
 - Shinkansen should prioritize enhancing marketing strategies for different age and gender groups, especially focusing on the elderly and leisure travellers
 
-## [US Adidas Sales Analysis](https://github.com/moiez326/US-Adidas-sales)
+## [US Adidas regional trends Analysis](https://github.com/moiez326/US-Adidas-sales)
 ![Adidas logo](https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg)
 
 #### Context 
