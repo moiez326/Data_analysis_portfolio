@@ -32,7 +32,6 @@ A collection of my data analysis projects. Each project includes a README with c
   ![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
   
 - Regression analysis shows a weak correlation between price and rating for both brands. Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
-- 
 #### Data Source
 The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
@@ -51,7 +50,9 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 #### Context: 
 - The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
 
-- Loan Amount vs. Debt to Income Ratio
+### Key insights: 
+
+#### Loan Amount vs. Debt to Income Ratio
   
 ![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
 
