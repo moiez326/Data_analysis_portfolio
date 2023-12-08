@@ -52,9 +52,11 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 - The "Global Bank Loan Default Analysis" delves into the complexities of loan defaults, a key aspect of financial risk management. This project investigates various client and loan characteristics to identify the factors that significantly influence loan defaults at Global Bank.
 
 - Loan Amount vs. Debt to Income Ratio
+  
 ![Chart 2](https://github.com/moiez326/loandefault/blob/main/media/Screenshot%202023-11-28%20at%2013.37.35.png)
 
-- Using linear regression we found that loan amount is not a strong predictor of the debt-to-income ratio. Interestingly, defaulted loans tend to have a higher debt-to-income ratio, pointing to other contributory factors to loan default.
+- Using linear regression we found that loan amount is not a strong predictor of the debt-to-income ratio.
+- defaulted loans tend to have a higher debt-to-income ratio, pointing to other contributory factors to loan default.
 
 #### Key insights:
 - Loan amounts are not significant indicators of the likelihood of default.
@@ -78,8 +80,6 @@ Key findings from the study include:
 - Demographic factors like age and gender significantly impact satisfaction levels, with varying satisfaction observed in elderly and younger passenger groups.
 - The quality of onboard services, such as comfort, catering, and entertainment, emerges as key drivers of passenger satisfaction.
 
-These insights are vital for the travel industry, particularly for services like the Shinkansen. Enhancing service quality and customizing the travel experience to cater to diverse passenger needs can lead to significant improvements in satisfaction rates. Tailoring services to different demographic groups could be a strategic approach to boosting overall passenger satisfaction.
-
 ## [US Adidas Sales Analysis](https://github.com/moiez326/US-Adidas-sales)
 ![Adidas logo](https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg)
 
@@ -101,10 +101,8 @@ These insights are vital for the travel industry, particularly for services like
 - Men's Apparel has the lowest average operating profit, suggesting it is the least profitable category, especially in the Midwest and Southeast regions.
 - The Southeast region shows growth potential, with overall lower profits indicating an opportunity for targeted marketing and sales initiatives.
 
-### Conclusion
-This analysis sheds light on key strengths and growth opportunities in Adidas's U.S. sales. Strategic decisions and marketing efforts informed by these insights can significantly boost regional sales and align with consumer preferences and product category performance.
-
-### Future Directions
+### Conclusion, and recommendations:
+- This analysis sheds light on key strengths and growth opportunities in Adidas's U.S. sales. Strategic decisions and marketing efforts informed by these insights can significantly boost regional sales and align with consumer preferences and product category performance.
 - further research into the web-shopping experience and creating sales based on customers' preferences and regional segmentation
 
 
