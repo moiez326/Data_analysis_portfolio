@@ -36,10 +36,6 @@ A collection of my data analysis projects. Each project includes a README with c
 #### Data Source
 The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
-#### Repository Structure
-- [Raw Data](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_raw_data.csv): The initial dataset.
-- [Cleaned Data](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_cleaned_data.csv): The dataset post-cleaning and preprocessing.
-
 #### Conclusions and Recommendations
 - The study has identified pivotal product categories driving sales and profitability and highlighted regional differences in sales performance. Recommendations are provided for pricing strategies and inventory management to enhance Adidas' market position.
 - Integrating external data like market trends and customer demographics for a more in-depth analysis.
@@ -80,13 +76,6 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 
 #### Context 
 - The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering commerce patterns vary across U.S. regions, states, and cities?
-
-#### Repository Structure
-- [adidas_EDA.ipynb]: Jupyter notebook containing in-depth EDA and visualizations.
-- adidas_csv_master.csv: Raw sales data.
-- final_adidas.csv: Cleaned and processed sales data.
-- stores.csv: Subset data for Adidas retail stores.
-- orders.csv: Subset data for order information.
 
 ### Key insight
 ![chart 4](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2012.04.13.png)
