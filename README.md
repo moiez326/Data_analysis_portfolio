@@ -1,8 +1,8 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
-# Data analysis portfolio
-Each project here includes context, 1 key insight with visualization, and a conclusion with recommendations
-
+# Introduction
+- Welcome! I'm Moiez, a passionate data analyst with a background in Geography and Philosophy from York University. My journey began with Python, driven by a fascination for data's storytelling power and its impact on the world. I specialize in Python, R, Excel, Google Sheets, and Tableau, with a focus on data cleaning, statistical calculations, and visualization. Notable projects include a comprehensive analysis of Shinkansen travel data and a detailed study of bank loan defaults, both reflecting my interest in service-oriented industries like
+- 
 ## Table of Contents
 - [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Nike_vs_Adidas/blob/main/nike%20vs%20adidas.ipynb)
   - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
