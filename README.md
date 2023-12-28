@@ -9,7 +9,7 @@
   - [data_repo](https://github.com/moiez326/Nike_vs_Adidas/tree/main/data)
 - [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/loandefault/blob/main/loan_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/loandefault/tree/main/data)
-- [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen/blob/main/shinki_EDA.ipynb)
+- [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinki_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/shinkansen/tree/main/data)
 - [US Adidas Regional trends analysis](https://github.com/moiez326/US-Adidas-sales/blob/main/adidas_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/US-Adidas-sales/tree/main/data)
