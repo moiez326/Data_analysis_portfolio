@@ -23,7 +23,7 @@ Welcome to my portfolio! I'm Moiez, a data analyst combining a background in Geo
 - **Executive Summary**: The EDA reveals a significant correlation between loan defaults and credit history, with smaller loans defaulting more often.
 
 ### [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen)
-![N700 Series Shinkansen](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinkn700.jpeg)
+![N700 series Shinkansen](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/Screenshot%202024-01-12%20at%2014.17.59.png)
 - **Insights**: Satisfaction varies with gender and age, with the elderly and youth displaying different satisfaction levels.
 - **Executive Summary**: Key findings highlight the largest passenger demographic groups and a significant correlation between delay times and passenger satisfaction.
 
