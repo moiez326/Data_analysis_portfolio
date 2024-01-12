@@ -48,7 +48,7 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 - By making more categories within the categorical variables, Job and Reasons for loan, Global Bank can have a better picture of who their clients are and why they take out loans to better segment their risk.
 
 ## [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen)
-![N700 series Shinkansen](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinkn700.jpeg)
+![N700 series Shinkansen](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/Screenshot%202024-01-12%20at%2014.17.59.png)
 
 #### Context 
 - The "Shinkansen Passenger Satisfaction Analysis" project explores the crucial aspects influencing passenger satisfaction on Japan's renowned bullet train. This analysis is centred on understanding the diverse elements contributing to the overall travel experience.
