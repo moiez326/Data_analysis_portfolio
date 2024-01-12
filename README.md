@@ -70,7 +70,7 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 - The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering commerce patterns vary across U.S. regions, states, and cities?
 
 ### Key insight
-![chart 4](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2012.04.13.png)
+![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
 - Women's Street Footwear and Men's Street Footwear are the highest profit categories, particularly in the West region, which leads in operating profits across most product types.
 - Men's Apparel has the lowest average operating profit, suggesting it is the least profitable category, especially in the Midwest and Southeast regions.
