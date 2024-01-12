@@ -73,14 +73,11 @@ Key findings include:
 ### Key insight
 ![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
-- - Seasonal and Regional Dynamics: Sales across all regions demonstrate seasonal peaks, with the South reaching the highest in July, likely influenced by summer promotions or events. The West peaks similarly in mid-year, while the Northeast and Southeast show steadier sales with less variance. A common trend across regions is a noticeable dip in February, reflecting a post-holiday sales decline.
-- Mid-Year Recovery: Sales generally pick up starting in March, with varying degrees of increase across regions.
-- Year-End Behavior: The South dips after mid-year but picks up slightly in December, while the Northeast and Southeast show gradual increases towards year-end, and the West experiences a decline post-August.
-- Volatility and Leadership: The South region not only leads in sales volume but also shows the most significant volatility. The Midwest follows a similar pattern with lower overall sales.
-
+-### Summary of Adidas Sales Trends
+- Peak Season Sales: The South dominates in sales with a significant July peak and post-holiday recovery in December, while the West also sees a mid-year surge. The Northeast and Southeast have more consistent sales with minor fluctuations.
+- Sales Patterns: All regions experience a February slump, rebound in March, and diverge towards year-end with the South and Northeast picking up, and the West declining.
+- Sales Consistency: The South shows high volatility in sales, leading the regions, whereas the Midwest maintains a similar but less pronounced pattern.
 ### Executive summary
-- ### Strategic Insights for Adidas
-
-- **Optimization Strategies**: Concentrating marketing on high-margin segments like Men's Street and Women's Footwear, especially in the high-performing West region, could enhance profitability. Meanwhile, targeted strategies are needed for other regions to boost sales.
-- **Product and Pricing Focus**: The success in Women's Footwear suggests potential for growth through focused innovation, while varied margins across categories highlight opportunities for strategic discounting to increase volume sales.
-- **Comprehensive Review**: A detailed understanding of regional and category-specific successes can inform overall cost management and strategic direction to improve Adidas's market position.
+- Optimization Strategies: Concentrating marketing on high-margin segments like Men's Street and Women's Footwear, especially in the high-performing West region, could enhance profitability. Meanwhile, targeted strategies are needed for other regions to boost sales.
+- Product and Pricing Focus: The success in Women's Footwear suggests potential for growth through focused innovation, while varied margins across categories highlight opportunities for strategic discounting to increase volume sales.
+- Comprehensive Review: A detailed understanding of regional and category-specific successes can inform overall cost management and strategic direction to improve Adidas's market position.
