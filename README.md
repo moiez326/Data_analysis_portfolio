@@ -28,10 +28,8 @@
 #### Data Source
 The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
-#### Conclusions and Recommendations
-- The study has identified pivotal product categories driving sales and profitability and highlighted regional differences in sales performance. Recommendations are provided for pricing strategies and inventory management to enhance Adidas' market position.
-- Integrating external data like market trends and customer demographics for a more in-depth analysis.
-- Employing machine learning models for predictive sales forecasting and trend analysis.
+#### Executive summary
+- Nike generally offers more expensive and higher-rated shoes, maintaining their market dominance, while Adidas provides more generous discounts, offering better value-for-price options. However, raises a question: Does Nike's market leadership primarily derive from its global brand presence, shaped by marketing and high-profile athlete endorsements? I believe these approaches contribute to a perceived image of superior quality and value, distinguishing Nike from competitors like Adidas, Reebok, Under Armour etc. 
 
 ## [Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
 ![Defaulting loan Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
@@ -45,8 +43,8 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 - that loan amount is not a strong predictor of the debt-to-income ratio.
 - defaulted loans tend to have a higher debt-to-income ratio, pointing to other contributory factors to loan default.
 
-#### Conclusion and recommendations 
-- a refocusing risk assessment process towards the borrower's credit history and the loan's purpose
+#### Executive summary 
+- The EDA reveals that there is a significant correlation between loan defaults and factors such as the reasons for loans and credit history and that defaulting loans are smaller than good loans.
 - By making more categories within the categorical variables, Job and Reasons for loan, Global Bank can have a better picture of who their clients are and why they take out loans to better segment their risk.
 
 ## [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/shinkansen)
@@ -60,8 +58,11 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 
 - Gender and age significantly impact satisfaction levels. Elderly and younger demographics show differing levels of satisfaction, highlighting a potential need for targeted service improvements.
 
-### Conclusion and recommendations
-- Shinkansen should prioritize enhancing marketing strategies for different age and gender groups, especially focusing on the elderly and leisure travellers
+### Executive summary
+-  The study focused on age distribution, satisfaction across age groups, gender influence, and the relationship between travel distance and delay times. 
+Key findings include:
+- Mid-20s and early 40s are the largest passenger demographic groupp with females in general having higher satisfaction, and middle-aged and young adult men having the highest dissatisfaction but this is also due to them being the largest demographic
+- delay times are significantly correlated with passenger satisfaction
 
 ## [US Adidas regional trends Analysis](https://github.com/moiez326/US-Adidas-sales)
 ![Adidas logo](https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg)
@@ -72,10 +73,14 @@ The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets
 ### Key insight
 ![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
-- Women's Street Footwear and Men's Street Footwear are the highest profit categories, particularly in the West region, which leads in operating profits across most product types.
-- Men's Apparel has the lowest average operating profit, suggesting it is the least profitable category, especially in the Midwest and Southeast regions.
-- The Southeast region shows growth potential, with overall lower profits indicating an opportunity for targeted marketing and sales initiatives.
+- - Seasonal and Regional Dynamics: Sales across all regions demonstrate seasonal peaks, with the South reaching the highest in July, likely influenced by summer promotions or events. The West peaks similarly in mid-year, while the Northeast and Southeast show steadier sales with less variance. A common trend across regions is a noticeable dip in February, reflecting a post-holiday sales decline.
+- Mid-Year Recovery: Sales generally pick up starting in March, with varying degrees of increase across regions.
+- Year-End Behavior: The South dips after mid-year but picks up slightly in December, while the Northeast and Southeast show gradual increases towards year-end, and the West experiences a decline post-August.
+- Volatility and Leadership: The South region not only leads in sales volume but also shows the most significant volatility. The Midwest follows a similar pattern with lower overall sales.
 
-### Conclusion, and recommendations
-- This analysis sheds light on key strengths and growth opportunities in Adidas's U.S. sales. Strategic decisions and marketing efforts informed by these insights can significantly boost regional sales and align with consumer preferences and product category performance.
-- further research into the web-shopping experience and creating sales based on customers' preferences and regional segmentation
+### Executive summary
+- ### Strategic Insights for Adidas
+
+- **Optimization Strategies**: Concentrating marketing on high-margin segments like Men's Street and Women's Footwear, especially in the high-performing West region, could enhance profitability. Meanwhile, targeted strategies are needed for other regions to boost sales.
+- **Product and Pricing Focus**: The success in Women's Footwear suggests potential for growth through focused innovation, while varied margins across categories highlight opportunities for strategic discounting to increase volume sales.
+- **Comprehensive Review**: A detailed understanding of regional and category-specific successes can inform overall cost management and strategic direction to improve Adidas's market position.
