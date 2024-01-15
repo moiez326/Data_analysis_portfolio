@@ -75,7 +75,7 @@ Key findings include:
 ### Key insight
 ![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
--### Summary of Adidas Sales Trends
+### Summary of Adidas Sales Trends
 - Peak Season Sales: The South dominates in sales with a significant July peak and post-holiday recovery in December, while the West also sees a mid-year surge. The Northeast and Southeast have more consistent sales with minor fluctuations.
 - Sales Patterns: All regions experience a February slump, rebound in March, and diverge towards year-end with the South and Northeast picking up, and the West declining.
 - Sales Consistency: The South shows high volatility in sales, leading the regions, whereas the Midwest maintains a similar but less pronounced pattern.
