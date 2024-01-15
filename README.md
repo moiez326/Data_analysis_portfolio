@@ -13,6 +13,7 @@
   - [data_repo](https://github.com/moiez326/shinkansen/tree/main/data)
 - [US Adidas Regional trends analysis](https://github.com/moiez326/US-Adidas-sales/blob/main/adidas_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/US-Adidas-sales/tree/main/data)
+  - [SQL analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/US%20Adidas%20SQL.ipynb)
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
 ![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
@@ -69,7 +70,8 @@ Key findings include:
 
 #### Context 
 - The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering commerce patterns vary across U.S. regions, states, and cities?
-
+#### SQL analysis 
+[LINK](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/US%20Adidas%20SQL.ipynb)
 ### Key insight
 ![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
