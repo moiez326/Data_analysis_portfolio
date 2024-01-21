@@ -4,9 +4,9 @@
 Welcome! I'm Moiez, a data analyst fascinated by the power and impact data. I use tools like Python, Open AI API, Google Sheets, and some machine-learning, and Tableau to uncover insights in service-centric and consumer-focused industries.
 I'm interested in sectors such as train/air travel, hotels, sportswear brands, and online retail. My porfolio is characterized by a focus on:
 
-- Travel and Transport: I analyze trends and customer preferences in train and air travel, dedicating my efforts to enhance passenger experiences and operational efficiencies.
-Apparel and Sportswear Analysis: My analysis in the apparel sector encompasses market trends, consumer behaviors, and competitive strategies, particularly in sportswear and fashion.
-- E-Commerce Dynamics: I delve into the intricacies of online retail, aiming to decode consumer purchasing patterns, refine digital marketing strategies, and boost customer engagement
+Travel and Transport: I focus on analyzing travel trends and passenger preferences in train and air travel to improve their experience and streamline operations.
+Apparel and Sportswear: I study market trends, consumer behavior, and competitive strategies in the sportswear and fashion industry.
+E-Commerce: My work involves understanding online shopping behavior, enhancing digital marketing, and increasing customer engagement.
 
 ## Table of Contents
 - [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
