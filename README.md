@@ -4,8 +4,8 @@
 Welcome! I'm Moiez, a data analyst fascinated by the power and impact data. I use tools like Python, Open AI API, Google Sheets, and some machine-learning, and Tableau to uncover insights in service-centric and consumer-focused industries.
 I'm interested in sectors such as train/air travel, hotels, sportswear brands, and online retail. My porfolio is characterized by a focus on:
 
-Travel and Transport: I focus on analyzing travel trends and passenger preferences in train and air travel to improve their experience and streamline operations.
-Apparel and Sportswear: I study market trends, consumer behavior, and competitive strategies in the sportswear and fashion industry.
+- **Travel and Transport**: I focus on analyzing travel trends and passenger preferences in train and air travel to improve their experience and streamline operations.
+- **Apparel and Sportswear**: I study market trends, consumer behavior, and competitive strategies in the sportswear and fashion industry.
 E-Commerce: My work involves understanding online shopping behavior, enhancing digital marketing, and increasing customer engagement.
 
 ## Table of Contents
