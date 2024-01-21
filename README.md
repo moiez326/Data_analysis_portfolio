@@ -4,9 +4,8 @@
 - Welcome! I'm Moiez, a passionate data analyst with a background in Geography and Philosophy from York University. My journey began with Python, driven by a fascination for data's storytelling power and its impact on the world. I specialize in Python, R, Excel, Google Sheets, and Tableau, with a focus on data cleaning, statistical calculations, and visualization. Notable projects include a comprehensive analysis of Shinkansen travel data and a detailed study of bank loan defaults, both reflecting my interest in service-oriented industries like
 - 
 ## Table of Contents
-- [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Nike_vs_Adidas/blob/main/nike%20vs%20adidas.ipynb)
+- [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
   - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
-  - [data_repo](https://github.com/moiez326/Nike_vs_Adidas/tree/main/data)
 - [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/loandefault/blob/main/loan_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/loandefault/tree/main/data)
 - [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinki_EDA.ipynb)
