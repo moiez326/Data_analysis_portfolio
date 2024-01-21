@@ -25,8 +25,6 @@
   
 - Regression analysis shows a weak correlation between price and rating for both brands.
 - Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
-#### Data Source
-The analysis utilizes data from [Kash on Kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike), featuring transactional sales data for various Adidas products across different US regions.
 
 #### Executive summary
 - Nike generally offers more expensive and higher-rated shoes, maintaining their market dominance, while Adidas provides more generous discounts, offering better value-for-price options. However, raises a question: Does Nike's market leadership primarily derive from its global brand presence, shaped by marketing and high-profile athlete endorsements? I believe these approaches contribute to a perceived image of superior quality and value, distinguishing Nike from competitors like Adidas, Reebok, Under Armour etc. 
