@@ -15,7 +15,7 @@
   - [SQL analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/US%20Adidas%20SQL.ipynb)
 
 ## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Nike_vs_Adidas/tree/main)
-![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
+![shoes](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
 
 #### Context 
 - Compare Adidas and Nike based on price, rating, and discount % to identify trends within the sportswear industry.
