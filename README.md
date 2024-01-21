@@ -1,7 +1,11 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
 # Introduction
-- Welcome! I'm Moiez, a passionate data analyst with a background in Geography and Philosophy from York University. My journey began with Python, driven by a fascination for data's storytelling power and its impact on the world. I specialize in Python, R, Excel, Google Sheets, and Tableau, with a focus on data cleaning, statistical calculations, and visualization. Notable projects include a comprehensive analysis of Shinkansen travel data and a detailed study of bank loan defaults, both reflecting my interest in service-oriented industries like
+- Welcome! I'm Moiez, a data analyst deeply fascinated by the narrative power of data and its profound impact on our world. My expertise lies in data analysis, statistics, and visualization, leveraging tools like Python, Open AI API, Google Sheets, and Tableau to unravel complex datasets.
+My professional journey is anchored at the crossroads of hospitality and commerce, where I delve into sectors such as train/air travel, hotels, sportswear brands, and online retail. My goal is to unearth pivotal insights in service-centric and consumer-focused industries. My work is characterized by a keen focus on transforming intricate data into strategic, actionable intelligence in key areas:
+Travel and Transport: I analyze trends and customer preferences in train and air travel, dedicating my efforts to enhance passenger experiences and operational efficiencies.
+Apparel and Sportswear Analysis: My analysis in the apparel sector encompasses market trends, consumer behaviors, and competitive strategies, particularly in sportswear and fashion.
+E-Commerce Dynamics: I delve into the intricacies of online retail, aiming to decode consumer purchasing patterns, refine digital marketing strategies, and boost customer engagement
 - 
 ## Table of Contents
 - [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
