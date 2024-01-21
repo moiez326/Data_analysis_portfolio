@@ -1,13 +1,13 @@
 ![power of data](https://github.com/moiez326/US-Adidas-sales/blob/main/media/Screenshot%202023-12-06%20at%2013.53.07.png)
 
 # Introduction
-- Welcome! I'm Moiez, a data analyst deeply fascinated by the narrative power of data and its profound impact on our world. My expertise lies in data analysis, statistics, and visualization, leveraging tools like Python, Open AI API, Google Sheets, and Tableau to unravel complex datasets.
-- My professional journey is anchored at the crossroads of hospitality and commerce, where I delve into sectors such as train/air travel, hotels, sportswear brands, and online retail. My goal is to unearth pivotal insights in service-centric and consumer-focused industries. My work is characterized by a keen focus on transforming intricate data into strategic, actionable intelligence in key areas:
+Welcome! I'm Moiez, a data analyst fascinated by the power and impact data. I use tools like Python, Open AI API, Google Sheets, and some machine-learning, and Tableau to uncover insights in service-centric and consumer-focused industries.
+I'm interested in sectors such as train/air travel, hotels, sportswear brands, and online retail. My porfolio is characterized by a focus on:
 
 - Travel and Transport: I analyze trends and customer preferences in train and air travel, dedicating my efforts to enhance passenger experiences and operational efficiencies.
 Apparel and Sportswear Analysis: My analysis in the apparel sector encompasses market trends, consumer behaviors, and competitive strategies, particularly in sportswear and fashion.
 - E-Commerce Dynamics: I delve into the intricacies of online retail, aiming to decode consumer purchasing patterns, refine digital marketing strategies, and boost customer engagement
- 
+
 ## Table of Contents
 - [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
   - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
