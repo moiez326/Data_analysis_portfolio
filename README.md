@@ -19,7 +19,7 @@
 ![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
 
 #### Context 
-- The "Adidas Sales Analysis" project offers a comprehensive examination of Adidas' sales data in the United States. This analysis aims to decode patterns in sales, understand profitability dynamics, and grasp customer preferences.
+- Compare Adidas and Nike based on price, rating, and discount % to identify trends within the sportswear industry.
 
 ### Key insight 
 ![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
