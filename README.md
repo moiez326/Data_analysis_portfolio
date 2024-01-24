@@ -34,7 +34,7 @@ E-Commerce: My work involves understanding online shopping behavior, enhancing d
 #### Executive summary
 - Nike generally offers more expensive and higher-rated shoes, maintaining their market dominance, while Adidas provides more generous discounts, offering better value-for-price options. However, raises a question: Does Nike's market leadership primarily derive from its global brand presence, shaped by marketing and high-profile athlete endorsements? I believe these approaches contribute to a perceived image of superior quality and value, distinguishing Nike from competitors like Adidas, Reebok, Under Armour etc. 
 
-## [Bank loan default client risk factor analysis](https://github.com/moiez326/loandefault)
+## [Bank loan default client risk factor analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Loan%20default/loan_EDA.ipynb)
 ![Defaulting loan Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
 
 #### Context
