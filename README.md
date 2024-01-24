@@ -74,6 +74,7 @@ Key findings include:
 - The "US Adidas Sales Analysis" delves into Adidas's sales data across various U.S. regions, focusing on understanding consumer preferences and uncovering commerce patterns vary across U.S. regions, states, and cities?
 ### [SQL analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/US%20Adidas%20SQL.ipynb)
 ### Key insight
+**Year 2021 Sales**
 ![chart 4](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/Screenshot%202024-01-12%20at%2012.16.28.png)
 
 ### Summary of Adidas Sales Trends
