@@ -11,7 +11,7 @@ E-Commerce: My work involves understanding online shopping behavior, enhancing d
 ## Table of Contents
 - [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
   - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
-- [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/loandefault/blob/main/loan_EDA.ipynb)
+- [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Loan%20default/loan_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/loandefault/tree/main/data)
 - [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinki_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/shinkansen/tree/main/data)
