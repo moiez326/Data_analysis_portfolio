@@ -9,30 +9,13 @@ I'm interested in sectors such as train/air travel, hotels, sportswear brands, a
 E-Commerce: My work involves understanding online shopping behavior, enhancing digital marketing, and increasing customer engagement.
 
 ## Table of Contents
-- [Nike vs Adidas shoe pricing and rating analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
-  - [Data Source](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike)
-- [Bank Loan Default Client Risk Factor Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Loan%20default/loan_EDA.ipynb)
+- [Bank-loan client-risk Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Loan%20default/loan_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/loandefault/tree/main/data)
-- [Shinkansen Travel Experience and Satisfaction Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinki_EDA.ipynb)
+- [Shinkansen Travel Experience Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Shinkansen/shinki_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/shinkansen/tree/main/data)
-- [US Adidas Regional trends analysis](https://github.com/moiez326/US-Adidas-sales/blob/main/adidas_EDA.ipynb)
+- [US Adidas Sales analysis](https://github.com/moiez326/US-Adidas-sales/blob/main/adidas_EDA.ipynb)
   - [data_repo](https://github.com/moiez326/US-Adidas-sales/tree/main/data)
   - [SQL analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/US%20Adidas/US%20Adidas%20SQL.ipynb)
-
-## [Nike vs Adidas Shoe Pricing and Rating Analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/nike_adidas.ipynb)
-![shoes](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Nike%20vs.%20Adidas%20shoes/Screenshot%202024-01-21%20at%2016.47.51.png)
-
-#### Context 
-- Compare Adidas and Nike based on price, rating, and discount % to identify trends within the sportswear industry.
-
-### Key insight 
-![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
-  
-- Regression analysis shows a weak correlation between price and rating for both brands.
-- Adidas exhibits marginally higher average ratings in the \$50 to \$100 price range. Nike, on the other hand, shows greater variability in customer ratings at higher price points.
-
-#### Executive summary
-- Nike generally offers more expensive and higher-rated shoes, maintaining their market dominance, while Adidas provides more generous discounts, offering better value-for-price options. However, raises a question: Does Nike's market leadership primarily derive from its global brand presence, shaped by marketing and high-profile athlete endorsements? I believe these approaches contribute to a perceived image of superior quality and value, distinguishing Nike from competitors like Adidas, Reebok, Under Armour etc. 
 
 ## [Bank loan default client risk factor analysis](https://github.com/moiez326/Data_analysis_portfolio/blob/main/Loan%20default/loan_EDA.ipynb)
 ![Defaulting loan Analysis](https://media.istockphoto.com/id/1372053987/vector/default-bank-loans-isometric-3d.jpg?s=612x612&w=0&k=20&c=Rqy-n5FhihLGtOf6DtdKjyRI-8l2sRXPYjG69ie79cM=)
